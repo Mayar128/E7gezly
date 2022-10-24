@@ -1,5 +1,5 @@
 # E7gezly
-Structured Programming Project in FCIS ASU
+Structured Programming Project in FCIS ASU.
 E7gezly ia an application using to book an appointment
 You could access as a doctor or a patient:
 Features for Doctor:-
